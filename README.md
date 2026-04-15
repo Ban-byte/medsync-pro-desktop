@@ -17,7 +17,6 @@ Para atender aos requisitos de flexibilidade do briefing, o sistema permite real
 ##  Tecnologias Utilizadas
 * **Figma:** Design de interface e prototipação interativa.
 * **GitHub:** Documentação e repositório do projeto.
-* **Grid System:** Utilização de grid de 12 colunas para layout desktop (1440px).
 
 ##  Link do Protótipo
 👉 https://www.figma.com/make/0XUCWiNkKOu6TQzEy5URXY/Sem-t%C3%ADtulo?fullscreen=1&t=FuNdUkIKqfd7TCsY-1
