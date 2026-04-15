@@ -20,7 +20,7 @@ Para atender aos requisitos de flexibilidade do briefing, o sistema permite real
 * **Grid System:** Utilização de grid de 12 colunas para layout desktop (1440px).
 
 ##  Link do Protótipo
-👉 https://www.figma.com/design/9WtGfAmC3JOAGT4Bm50gN2/Sem-t%C3%ADtulo?node-id=0-1&t=aS6XJQzL1l6SxrJY-1
+👉 https://www.figma.com/make/0XUCWiNkKOu6TQzEy5URXY/Sem-t%C3%ADtulo?fullscreen=1&t=FuNdUkIKqfd7TCsY-1
 
 ---
 *Nota: Este projeto foi desenvolvido para fins acadêmicos em 2026.*
